@@ -1,0 +1,54 @@
+.salam{
+    color: rgb(255, 255, 255);
+}
+.container{
+    margin: 3rem;
+    
+    
+    
+}
+.movies{
+    
+    font-family: 'Quicksand', sans-serif;
+    font-size: 3rem;
+}
+.sekil1{
+    width: 25rem;
+    height: 33rem;
+    border-radius:8px;
+    border-radius:8px ;
+    
+}
+
+.zor{
+    width: 25rem;
+    height: 6rem;
+    background-color:rgba(255, 255, 255, 0.7);
+    margin-top:-9rem;
+    margin-left: 0.2rem;
+    position: relative;
+    text-align: left;
+    border-radius: 0px 0px 8px 8px;
+    
+
+}
+h5{
+    margin-left: 10px;
+}
+h6{
+    margin-left: 10px;
+
+}
+.off{
+    width: 6rem;
+    height: 2rem;
+    background-color: aquamarine;
+    text-align: center;
+    margin-top: -34rem;
+    margin-left: 3rem;
+    position: relative;
+    border-radius: 5px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 3rem;
+    
+}
